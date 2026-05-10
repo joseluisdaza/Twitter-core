@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2026-05-10T02:17:48.029+0000
+Created-With: Smithy-Gradle-Plugin (0.10.0), Gradle (8.5)
+Build-Jdk: 21.0.11
+Build-OS: Linux amd64 6.6.87.2-microsoft-standard-WSL2
+Smithy-Tags: 
+
